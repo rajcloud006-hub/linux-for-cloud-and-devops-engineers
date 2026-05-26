@@ -1,7 +1,7 @@
 # linux-for-cloud-and-devops-engineers
 Practical Linux learning notes and hands-on labs for Cloud, DevOps and SRE engineers. Covers system administration, services, networking, troubleshooting, Docker and real-world operational concepts using simple analogies and practical examples
 
-chapters
+chapters:
 01-linux-as-a-building.md
 02-linux-permissions.md
 03-systemctl-services.md
