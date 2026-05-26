@@ -1,0 +1,56 @@
+# Linux as a Building
+
+Linux can be understood as an office building.
+
+## Root (/)
+
+The main entrance of the building.
+
+Everything starts here.
+
+## /home
+
+Private offices for users.
+
+Example:
+
+/home/ubuntu
+
+## /etc
+
+The control room.
+
+Contains configuration files that control system behaviour.
+
+## /var
+
+Storage room for changing data.
+
+Examples:
+
+- logs
+- caches
+- temporary application data
+
+## /var/log
+
+Security camera recordings of the building.
+
+Stores system logs.
+
+## /bin
+
+Shared toolbox.
+
+Contains common commands:
+
+- ls
+- cp
+- mv
+- cat
+
+## Key Takeaway
+
+Every directory has a purpose.
+
+Understanding the purpose is more important than memorising paths
