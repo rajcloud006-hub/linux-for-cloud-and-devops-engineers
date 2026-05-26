@@ -1,3 +1,13 @@
+## Learning Journey
+
+This repository is a living document of my journey towards Cloud Engineering, DevOps and Site Reliability Engineering.
+
+Each chapter is based on hands-on practice rather than theory alone.
+
+Future updates will include Linux networking, Bash scripting, Docker, Kubernetes, Azure administration, Terraform and real-world troubleshooting scenarios.
+
+The goal is not simply to learn commands, but to understand how systems operate and how engineers solve problems in production environments.
+
 # Linux for Cloud and DevOps
 
 Practical Linux learning notes using a single building analogy to understand Linux, Cloud, DevOps and SRE concepts.
